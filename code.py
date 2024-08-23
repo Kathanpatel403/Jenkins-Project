@@ -1,1 +1,1 @@
-print("Hello there || v2")
+prin("Hello there || v2")
